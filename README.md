@@ -1,2 +1,4 @@
-# QLDACNTT
-quản lý dự án CNTT
+mô tả dự án CNTT
+
+
+
